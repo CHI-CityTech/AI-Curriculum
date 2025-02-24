@@ -1,5 +1,5 @@
 ## **Course Title:** Introduction to Artificial Intelligence  
-**Course Code:** LIB 2001ID  
+**Course Code:** LIB 2001ID    
 **Credits:** 3  
 **Fulfills:** Pathways College Option Interdisciplinary course requirement  
 **Prerequisites:** ENG 1101 (English Composition) and MAT 1190 (Quantitative Reasoning) or higher  
@@ -8,18 +8,26 @@
 **Office Hours:** TBD  
 **Email:** TBD  
 
----
-
 ## **Course Description**
-This **interdisciplinary course** explores the fundamental concepts, history, and applications of Artificial Intelligence (AI). Students will engage in **critical discussions, hands-on AI interactions, and ethical evaluations** to understand how AI impacts society. Topics include **machine learning, neural networks, symbolic AI, AI bias, creativity, automation, and governance**.  
+This **interdisciplinary course** explores the fundamental concepts, history, and applications of Artificial Intelligence (AI). Students will engage in **critical discussions, hands-on AI interactions, and ethical evaluations** to understand how AI impacts society. Topics include **machine learning, neural networks, symbolic AI, AI bias, creativity, automation, and governance**.
 
-Designed for **all majors**, this course focuses on **conceptual understanding** rather than programming, though students will **interact with AI tools** to explore their functionality.
+Designed for **all majors**, this course focuses on **conceptual understanding** rather than programming, though students will **interact with AI tools** to explore their functionality. In addition, students will **collaborate on developing a simple machine learning model**, applying key AI concepts in a hands-on project to reinforce their learning.
 
-This course is taught using a **team approach** involving faculty from multiple disciplines. It fulfills a Pathways College Option general education requirement and is designed to provide broad AI literacy for all students.
+ The course explores AI applications in key areas such as:
+
+- **AI in Media & Creativity:** Analyzing the use of AI-generated art, interactive storytelling, and exploring future media trends.
+- **AI in Healthcare:** Examining AI's role in diagnostics, personalized medicine, and future healthcare innovations.
+- **AI & Automation:** Understanding the impact of AI on the workforce and future automation technologies.
+- **AI in Decision-Making:** Evaluating how AI supports critical decision-making in fields like law and policy, and anticipating future advances.
+- **AI in Technology:** Exploring how AI integrates with emerging technologies such as quantum computing, edge computing, and other innovations shaping the future.
+
+This course is taught using a **team approach** involving faculty from multiple disciplines. It fulfills a Pathways College Option Interdisciplinary course requirement and is designed to provide broad AI literacy for all students.
 
 ---
 
-## **Course Learning Outcomes and Assessment Methods**
+## **Course Learning Outcomes and Assessment Methods**  
+
+### **Discipline Learning Outcomes**
 
 | **Learning Outcome** | **Assessment Method** |
 |----------------------|-----------------------|
@@ -27,7 +35,16 @@ This course is taught using a **team approach** involving faculty from multiple 
 | **Evaluate** the impact of AI on society, industries, and individuals through case studies and critical analysis. | AI in the Media Analysis, Ethics Debate & Policy Analysis |
 | **Apply** AI tools for creative, analytical, or problem-solving tasks across various domains. | Hands-on AI Exploration, Final Project |
 | **Analyze** ethical dilemmas surrounding AI, including issues of fairness, bias, and privacy. | Ethics Debate & Policy Analysis, AI Reflection Journal |
+| **Develop** a simple machine learning model collaboratively, demonstrating the ability to translate AI concepts into practical applications. | Collaborative Machine Learning Project, Final Project |
 | **Demonstrate** AI literacy by critically engaging with AI technologies and articulating informed perspectives on their responsible use. | Final Project, AI Reflection Journal |
+
+### **Liberal Arts General Education Learning Outcomes**
+
+| **General Education Learning Outcome** | **Assessment Method** |
+|----------------------------------------|-----------------------|
+| **Gather, interpret, and assess information from a variety of sources and points of view.** | AI Reflection Journal, AI in the Media Analysis, Research Assignments |
+| **Evaluate evidence and arguments critically and analytically.** | Ethics Debate & Policy Analysis, AI in the Media Analysis |
+| **Produce well-reasoned written or oral arguments using evidence to support conclusions.** | Final Project, Ethics Debate, AI Reflection Journal |
 
 ---
 
@@ -35,7 +52,7 @@ This course is taught using a **team approach** involving faculty from multiple 
 
 | **Week** | **Topic** | **Key Concepts** | **Assignments & Activities** |
 |---------|----------|----------------|----------------|
-| **1** | What is AI? | AI definitions, history, intelligence vs. computation | AI Preconceptions Survey, Discussion on AI in pop culture |
+| **1** | AI in Everyday Life: What is AI? | AI definitions, history, and real-world applications in daily life (speech recognition, personal assistants, recommendation systems) | AI Preconceptions Survey, Discussion on AI in everyday experiences |
 | **2** | Types of AI | Symbolic AI, Expert Systems, Machine Learning, Deep Learning | Reading: AI history, Case Study: Watson vs. ChatGPT |
 | **3** | How Machines Learn | Supervised vs. Unsupervised Learning, Reinforcement Learning | Hands-on: Train a small AI model using an online tool |
 | **4** | AI & Automation | AI in robotics, self-driving cars, job displacement | Reflection: AI in the workplace |
@@ -45,10 +62,11 @@ This course is taught using a **team approach** involving faculty from multiple 
 | **8** | AI & Privacy | AI surveillance, facial recognition, data ownership | Policy Analysis: AI & Privacy Laws |
 | **9** | AI in Decision-Making | AI in healthcare, predictive policing, algorithmic transparency | Case Study: AI in criminal justice |
 | **10** | The Future of AI | AGI, singularity, transhumanism, speculative AI | Reflection: Would you trust AI with major decisions? |
-| **11** | **Ethics: AI Regulation & Governance** | Global AI policies, responsible AI development | Policy Debate: Should AI be regulated like medicine? |
-| **12** | Hands-on AI Lab | Experimenting with AI tools, biases in generative AI | AI Bias Test: Input data and observe bias patterns |
-| **13** | Final Project Workshops | Peer review of projects | Workshop: Refining AI project ideas |
-| **14** | Final Presentations | AI research project presentations | Presentations & reflections |
+| **11** | **AI and Future Innovations** | AI in emerging technologies (quantum computing, edge AI, biotechnology) | Research and discussion on AI trends |
+| **12** | **Hands-on AI Lab: Machine Learning Collaboration** | Developing a simple ML model using available AI tools | **Collaborative Project:** Building and testing a basic ML model |
+| **13** | **TBA: Special Topics or Project Progress** | Emerging issues or continued work on projects | Workshop: Advanced AI topic or continued ML project work |
+| **14** | **Final Project Workshops** | Peer review of projects | Workshop: Refining AI project ideas |
+| **15** | **Final Presentations** | AI research project presentations | Presentations & reflections |
 
 ---
 
@@ -111,3 +129,4 @@ Plagiarism or unethical use of AI (e.g., submitting AI-generated work without at
 ✅ **Balanced AI coverage** – Covers **technical foundations, applications, and ethics**.  
 ✅ **Hands-on learning** – Students actively **engage with AI tools**.  
 ✅ **Prepares students for future AI courses** – Lays the groundwork for **Machine Learning, AI in Media, and AI Ethics** courses.
+
