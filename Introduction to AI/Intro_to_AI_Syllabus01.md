@@ -1,5 +1,5 @@
 ## **Course Title:** Introduction to Artificial Intelligence  
-**Course Code:** LIB 2001ID    
+**Course Code:** LIB 2001ID   (Designation?)   
 **Credits:** 3  
 **Fulfills:** Pathways College Option Interdisciplinary course requirement  
 **Prerequisites:** ENG 1101 (English Composition) and MAT 1190 (Quantitative Reasoning) or higher  
