@@ -67,5 +67,5 @@ Educators, researchers, and students are welcome to use, remix, and adapt these 
 
 ## 📬 Contact
 
-This repository is maintained by the [Center for Holistic Integration (CHI)] at City Tech. For more information, collaborations, or support, please contact [project lead].
+This repository is maintained by the [Center for Holistic Integration (CHI)] at City Tech. For more information, collaborations, or support, please contact [Dr. David B. Smith](dsmith@citytech.cuny.edu).
 
