@@ -1,4 +1,4 @@
-# Lesson Plan: Introduction to Artificial Intelligence - Class Session 1
+# Lesson Plan: Artificial Intelligence - Class Session 1 (Course Introduction & Initial Reflection)
 
 **Total Time: 2 hours and 30 minutes**
 
@@ -7,113 +7,68 @@
 - [Learning Objectives](#learning-objectives)
 - [Materials Needed](#materials-needed)
 - [Schedule](#schedule)
-  - [1. AI Baseline Poll (15 minutes)](#1-ai-baseline-poll-15-minutes)
-  - [2. Introduction (15 minutes)](#2-introduction-15-minutes)
-  - [3. Icebreaker Activity: AI in Daily Life (15 minutes)](#3-icebreaker-activity-ai-in-daily-life-15-minutes)
-  - [4. Defining AI (20 minutes)](#4-defining-ai-20-minutes)
-  - [5. A Brief History of AI (20 minutes)](#5-a-brief-history-of-ai-20-minutes)
-  - [6. The Interdisciplinary Nature of AI (20 minutes)](#6-the-interdisciplinary-nature-of-ai-20-minutes)
-  - [7. Introduction to AI Content Generators (20 minutes)](#7-introduction-to-ai-content-generators-20-minutes)
-  - [8. Course Structure and Expectations (10 minutes)](#8-course-structure-and-expectations-10-minutes)
-  - [9. AI Tool Demonstration (15 minutes)](#9-ai-tool-demonstration-15-minutes)
-  - [10. Q&A and Discussion (15 minutes)](#10-q-a-and-discussion-15-minutes)
+  - [1. Welcome and Introductions (10 minutes)](#1-welcome-and-introductions-10-minutes)
+  - [2. Course Overview and Syllabus Discussion (20 minutes)](#2-course-overview-and-syllabus-discussion-20-minutes)
+  - [3. Activity: Initial Journal Setup (15 minutes)](#3-activity-initial-journal-setup-15-minutes)
+  - [4. Initial Reflection Writing Activity (25 minutes)](#4-initial-reflection-writing-activity-25-minutes)
+  - [5. Guided Exploration: AI Examples in Daily Life (20 minutes)](#5-guided-exploration-ai-examples-in-daily-life-20-minutes)
+  - [6. Group Discussion: Sharing Initial Perspectives (20 minutes)](#6-group-discussion-sharing-initial-perspectives-20-minutes)
+  - [7. Introduction to AI: Interactive Lecture (30 minutes)](#7-introduction-to-ai-interactive-lecture-30-minutes)
+  - [8. Q&A and Session Wrap-up (10 minutes)](#8-qa-and-session-wrap-up-10-minutes)
 - [Assignments](#assignments)
-  - [Assignment 1: AI in Daily Life](#assignment-1-ai-in-daily-life)
-  - [Assignment 2: Key AI Milestones](#assignment-2-key-ai-milestones)
-  - [Assignment 3: AI Tool Exploration](#assignment-3-ai-tool-exploration)
-  - [Assignment 4: Defining Intelligence](#assignment-4-defining-intelligence)
-  - [Assignment 5: AI Hallucinations Analysis](#assignment-5-ai-hallucinations-analysis)
+  - [Reflection Journal](#reflection-journal)
 
 ## Overview
-This class session serves as an introduction to the field of Artificial Intelligence (AI). The goal is to familiarize students with the fundamental concepts, history, and impact of AI on various disciplines. This session will also outline the structure of the course and provide an overview of key topics that will be covered.
+This introductory session familiarizes students with the course structure, objectives, and key topics. Students will participate in setting up a journaling environment and writing their initial reflections on AI.
 
 ## Learning Objectives
-- Define and describe the basic concepts of AI.
-- Analyze the historical development of AI and its impact on society.
-- Examine the interdisciplinary nature of AI.
-- Outline course expectations, structure, and key topics.
-- Reflect on the nature of intelligence and how it applies to both humans and machines.
-- Evaluate the capabilities and limitations of different AI content generation tools.
+- Understand the structure and expectations of the course.
+- Establish an initial personal understanding of Artificial Intelligence.
+- Set up a consistent journaling method to document reflections and learning progress.
 
 ## Materials Needed
-- Projector and screen for presentation
-- Slide deck: "Introduction to Artificial Intelligence"
-- Access to AI tools for demonstration (e.g., ChatGPT, JasperAI, Writesonic, Copy.AI, Rytr, HubSpot, etc.)
+- Projector and screen
+- Access to the selected journaling platform (LMS, Google Docs, OneNote, Notion, etc.)
+- Internet access for students
+- Course syllabus
 
 ## Schedule
 
-### 1. AI Baseline Poll (15 minutes)
-- Distribute and have students complete the AI Baseline Poll.
-- Encourage students to answer each question with a brief, thoughtful reflection.
-- Collect responses and discuss any common themes that arise.
+### 1. Welcome and Introductions (10 minutes)
+- Instructor and student introductions.
 
-### 2. Introduction (15 minutes)
-- Welcome students and introduce yourself.
-- Briefly explain the course objectives and the importance of AI in today’s world.
-- Outline the agenda for the class session.
+### 2. Course Overview and Syllabus Discussion (20 minutes)
+- Detailed review of the course syllabus, including objectives, schedule, assignments, and grading.
 
-### 3. Icebreaker Activity: AI in Daily Life (15 minutes)
-- Ask students to briefly discuss how they have encountered AI in their daily lives.
-- Share examples of AI applications (e.g., voice assistants, recommendation algorithms, autonomous vehicles).
+### 3. Activity: Initial Journal Setup (15 minutes)
+- Instructor guides students through setting up their digital journal environment.
+- Students create and label their journals clearly.
+- Instructor ensures each student can access and use the journaling platform.
 
-### 4. Defining AI (20 minutes)
-- Present a definition of AI: "AI refers to the simulation of human intelligence in machines that are programmed to think and learn."
-- Facilitate a class discussion on how to define intelligence.
-- Create a mind map or other collaborative visual representation of different aspects of intelligence (e.g., reasoning, learning, creativity, problem-solving).
-- Discuss the symmetries between human and machine intelligence, highlighting similarities and differences.
+### 4. Initial Reflection Writing Activity (25 minutes)
+- Students write their initial reflections directly within their newly created journal environment.
+- Reflection details provided via the Initial Reflection Assignment ([Persistent Link to Journal Instructions]).
 
-### 5. A Brief History of AI (20 minutes)
-- Provide an overview of the history of AI, starting with Alan Turing and his contributions.
-  - 1950: Alan Turing’s "Computing Machinery and Intelligence"
-  - 1956: Dartmouth Conference (birth of AI)
-  - 1980s: Expert systems
-  - 2000s: Rise of machine learning
-  - 2010s: Deep learning breakthroughs
-- Discuss notable figures in AI, including Alan Turing, Marvin Minsky, and other pioneers.
-- Emphasize the importance of historical context in understanding AI's development.
+### 5. Guided Exploration: AI Examples in Daily Life (20 minutes)
+- Instructor-led exploration of everyday examples of AI technologies and applications.
+- Interactive discussion on how these examples relate to student reflections.
 
-### 6. The Interdisciplinary Nature of AI (20 minutes)
-- Discuss how AI impacts various fields, including healthcare, finance, arts, and humanities.
-- Highlight the importance of ethics and responsible AI use.
+### 6. Group Discussion: Sharing Initial Perspectives (20 minutes)
+- Students share and discuss key points from their reflections in small groups.
+- Class-wide sharing of themes and insights.
 
-### 7. Introduction to AI Content Generators (20 minutes)
-- Introduce different AI content generation tools, including ChatGPT, JasperAI, Writesonic, Copy.AI, Rytr, and HubSpot.
-- Discuss their potential applications, strengths, and weaknesses.
-- Explain the concept of AI hallucination and the importance of fact-checking AI-generated content.
-- Provide examples of different content types these tools can generate (e.g., blog posts, social media posts, email marketing).
+### 7. Introduction to AI: Interactive Lecture (30 minutes)
+- Brief historical background and fundamental concepts of Artificial Intelligence.
+- Overview of practical AI applications.
 
-### 8. Course Structure and Expectations (10 minutes)
-- Provide an overview of the course syllabus.
-- Discuss key topics to be covered, such as ethics in AI, practical applications, and hands-on projects.
-- Explain course expectations, grading, and participation requirements.
-
-### 9. AI Tool Demonstration (15 minutes)
-- Introduce students to an accessible AI tool, such as ChatGPT.
-- Demonstrate how the tool works and discuss potential use cases.
-
-### 10. Q&A and Discussion (15 minutes)
-- Open the floor for questions about the course or AI in general.
-- Encourage students to share their thoughts or concerns.
+### 8. Q&A and Session Wrap-up (10 minutes)
+- Address any lingering questions or uncertainties.
+- Overview of upcoming sessions and assignments.
 
 ## Assignments
 
-### Assignment 1: AI in Daily Life
-**Due Date:** Next class session  
-**Instructions:** Write a 1-2 page reflection on how AI impacts your daily life. Include specific examples and consider both positive and negative aspects. 
-
-### Assignment 2: Key AI Milestones
-**Due Date:** Next class session  
-**Instructions:** Research a key milestone in the history of AI and write a brief summary (300-500 words) explaining its significance, starting with Alan Turing’s contributions if relevant. Be prepared to discuss your findings in the next class.
-
-### Assignment 3: AI Tool Exploration
-**Due Date:** Next class session  
-**Instructions:** Explore an AI content generation tool (e.g., ChatGPT, JasperAI, Writesonic, Copy.AI, or Rytr). Write a short summary (200-300 words) describing your experience, including how the tool works, what content it generated, and its potential applications.
-
-### Assignment 4: Defining Intelligence
-**Due Date:** Next class session  
-**Instructions:** Reflect on the class discussion about intelligence and write a brief essay (300-500 words) describing your personal definition of intelligence. Consider the symmetries between human and machine intelligence.
-
-### Assignment 5: AI Hallucinations Analysis
-**Due Date:** Next class session  
-**Instructions:** Using one of the AI content generation tools, intentionally ask it a factual question with an incorrect assumption. Document whether the AI corrected the information or generated a hallucination, and provide a short reflection on the implications of AI-generated errors.
+### Reflection Journal
+- Ongoing weekly reflections will build upon the initial reflection. 
+- Ensure your journal is accessible and updated consistently.
+- Reference the Initial Reflection Assignment instructions here: [Persistent Link to Journal Instructions].
 
