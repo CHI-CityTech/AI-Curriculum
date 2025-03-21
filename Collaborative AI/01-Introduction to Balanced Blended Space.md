@@ -36,7 +36,7 @@ The grammar of BBS employs a unique structure based on SVD (Source, Vector, Dest
 
 #### Recommended Reading:
 
-- Academic articles on the BBS framework, AI collaboration, and mediation pathways (links provided digitally).
+- [Balanced Blended Space: Proposing a Universal Theoretical Framework for Combinative Reality](https://docs.google.com/document/d/1GTGZkLXFIUO-xCxgF5jUhEY57bVNA6l4IaNPHzRPONw/edit?usp=sharing)  
 - "Collaborative AI in Artistic Spaces" – comprehensive paper exploring theoretical and practical dimensions of collaborative AI.
 - GitHub repositories and documentation on BBS and related projects for deeper technical insights.
 
