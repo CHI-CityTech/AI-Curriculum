@@ -35,9 +35,9 @@ A project integrating physical performances with virtual environments driven by 
 An innovative performance form combining robotics, traditional shadow puppetry, and virtual orchestration, enhanced by AI to provide immersive audience experiences.
 
 ## Resources
-- [Detailed Introduction to BBS](link-to-introduction-document)
-- [Comprehensive Reading List](link-to-recommended-reading)
-- [Examples of BBS Projects](link-to-projects-page)
+- [Detailed Introduction to BBS](https://docs.google.com/document/d/1GTGZkLXFIUO-xCxgF5jUhEY57bVNA6l4IaNPHzRPONw/edit?usp=sharing)
+- [Zotero : Comprehensive Reading List](https://www.zotero.org/groups/5909129/chi-collaborative_ai/library)
+- [Examples of BBS Projects](https://github.com/CHI-CityTech/StudentResearch)
 
 ## How to Contribute
 We encourage contributions and collaboration from diverse disciplines. Please consult our contribution guidelines to participate in advancing the BBS framework and collaborative AI projects.
