@@ -8,8 +8,9 @@ This proposal outlines the design, schedule, and theoretical rationale for the *
 
 - [1. Course and Travel Schedule (Mechanical Structure)](#1-course-and-travel-schedule-mechanical-structure)
   - [Preferred Course Meeting Times](#preferred-course-meeting-times)
-- [2. Pedagogical and Philosophical Framing: Communication as the Foundation of Ethical Understanding](#2-pedagogical-and-philosophical-framing-communication-as-the-foundation-of-ethical-understanding)
-- [3. Toward a Systematic Language of Mediation and Collaboration](#3-toward-a-systematic-language-of-mediation-and-collaboration)
+- [2. The Case for a Multi-Modal Pedagogical Delivery Strategy](#2-the-case-for-a-multi-modal-pedagogical-delivery-strategy)
+- [3. Pedagogical and Philosophical Framing: Communication as the Foundation of Ethical Understanding](#3-pedagogical-and-philosophical-framing-communication-as-the-foundation-of-ethical-understanding)
+- [4. Toward a Systematic Language of Mediation and Collaboration](#4-toward-a-systematic-language-of-mediation-and-collaboration)
 
 # **Course Proposal: Societal and Ethical Impacts of Data Science (SEID 2364)**
 
