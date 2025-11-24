@@ -28,6 +28,8 @@ Case studies include:
 - **Cultural Representation & Appropriation in AI** – diffusion of responsibility in generative systems.
 - **Algorithmic Bias & Governance** – ambiguity and wicked problems in real-world deployments.
 
+For a full list of potential case studies, please see this document [SEID Case Studies](./seid_2364_case_studies.md)
+
 By the end of the course, students will be able to apply a structured, culturally aware, and critically reflective ethical process to any data science environment.
 
 ---
@@ -71,7 +73,6 @@ A complete detailed schedule is available in *SEID2364 Proposed Class Schedule V
 | 8–9      | Ambiguity, wicked problems, Quantum Musico                              | Asynchronous + Hybrid |
 | 10       | Human–AI collaboration; designing AI teammates                          | Synchronous Online    |
 | 11       | Social-media ethics (embedded Discord/Mastodon lab)                     | Hybrid/               |
-| Embedded |                                                                         |                       |
 | 12       | Team project development                                                | Hybrid                |
 | 13       | Iteration, integration & prototype ethics                               | Face-to-Face (Vienna) |
 | 14       | Final presentations & synthesis                                         | Face-to-Face (Vienna) |
@@ -88,7 +89,7 @@ Students will complete:
 - **Extended Multi-Agent Collaboration:** Teams with distributed roles, including AI systems as peers.
 - Exploration of **authorship**, **agency**, **identity**, **cultural representation**, and **responsibility diffusion**.
 
-Full project breakdown appears in the document *SEID2364 Project Activity Overview*.
+Full project breakdown appears in the document [*SEID2364 Project Activity Overview*](seid-2364-project_activity_Overview.md).
 
 ---
 
@@ -123,12 +124,12 @@ This course models responsible AI use in alignment with the EU AI Act and BBS et
 
 ## **9. Appendices & Linked Documents**
 
-- **AI Usage Report – SEID 2364 Collaboration**
-- **SEID2364 Proposed Class Schedule V2**
-- **SEID2364 Project Activity Overview**
-- **Balanced Blended Space (BBS) Framework Paper**
-- **Quantum Musico Case Study**
-- **Glossaries:** BBS Terms + Research Competencies
+- [**AI Usage Report – SEID 2364 Collaboration**](../seid-2364_ai_collaboration_report.md)
+- [**SEID2364 Proposed Class Schedule V2**](seid_2364_proposed_class_schedule.md)  
+- [**SEID2364 Project Activity Overview**](./seid-2364-project_activity_Overview.md)  
+- [**Balanced Blended Space (BBS) Framework Paper**](https://academicworks.cuny.edu/ny_pubs/1239/)  
+- [**Quantum Musico Case Study**](https://github.com/CHI-CityTech/QuantumMusic). 
+- [**Glossaries:** BBS Terms + Research Competencies](../resources/)
 
 ---
 
