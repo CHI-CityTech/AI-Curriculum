@@ -1,7 +1,7 @@
-This repository supports the interdisciplinary, course:
-Introduction to Artificial Intelligence (LIB 2101)
-Approved as a Pathways College Option – Interdisciplinary Course
-Credits: 3 | 
+This repository supports the interdisciplinary, course:  
+Introduction to Artificial Intelligence (LIB 2101)  
+Approved as a Pathways College Option – Interdisciplinary Course  
+Credits: 3   
 
 # Balanced Blended Space (BBS) and Collaborative AI
 
