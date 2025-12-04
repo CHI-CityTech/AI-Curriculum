@@ -1,3 +1,8 @@
+This repository supports the interdisciplinary, course:  
+Introduction to Artificial Intelligence (LIB 2101)  
+Approved as a Pathways College Option – Interdisciplinary Course  
+Credits: 3   
+
 # Balanced Blended Space (BBS) and Collaborative AI
 
 Welcome to the repository dedicated to the exploration and application of the Balanced Blended Space (BBS) framework and collaborative artificial intelligence (AI). This repository hosts resources, projects, and documentation related to integrating human cognitive intelligence and computational intelligence in creative, experiential, and mediated environments.
